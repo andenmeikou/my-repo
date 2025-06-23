@@ -1,5 +1,6 @@
 # my-repo
 GitHub Actionsの練習用
+このワークフローは、GitHub Actionsの基本的な動作を学習するためのサンプルです。
 
 ## hello.yml ワークフローについて
 
@@ -31,4 +32,3 @@ graph TD
    - `echo "Hello, world"`: コンソールに挨拶メッセージを出力
    - `actions/checkout@v4`: リポジトリのソースコードをチェックアウト
 
-このワークフローは、GitHub Actionsの基本的な動作を学習するためのサンプルです。
